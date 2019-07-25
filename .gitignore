@@ -1,0 +1,7 @@
+# pdf output 
+
+*.pdf
+
+## epub output
+
+*.epub

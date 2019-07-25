@@ -1,4 +1,4 @@
-BOOK_NAME := open_source_trainning_undergraduate
+BOOK_NAME := 开源教程之高校版
 BOOK_OUTPUT := _book
 
 .PHONY: build

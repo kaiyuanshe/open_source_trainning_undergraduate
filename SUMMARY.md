@@ -1,7 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
-* [大学生开源培训提纲](undergraduate_training_outline.md)
+* [引言](README.md)
+* [感谢](acknowledgments.md)
+* [前言&内容介绍](undergraduate_training_outline.md)
 
 *  [引言](chapter/01-introduction.md)
 *  [软件开发者 —— 新世界的缔造者](chapter/02-developer-the-new-kingmaker.md)
@@ -14,3 +15,5 @@
 *  [开源界的社会法则](chapter/09-the-policy-of-os-world.md)
 *  [开源社区、基金会与商业公司](chapter/10-the-reltionship-of-community-foundation-firm.md)
 *  [计算机类专业教育与开源](chapter/11-computer-professionla-education-and-os.md)
+*  [附录](chapter/12-appendix.md)
+*  [参考资料](chapter/13-reference-material.md)
